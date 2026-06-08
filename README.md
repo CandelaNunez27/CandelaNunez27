@@ -1,4 +1,7 @@
-## Hi there 👋
+# CandelaNunez
+
+<h1 align="center">Hey there! I'm Candela Nuñez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+
 
 <!--
 **CandelaNunez27/CandelaNunez27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
