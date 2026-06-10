@@ -1,12 +1,64 @@
 
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
-<h1 align="center">Hello! I'm Candela Nuñez <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" />
+<h1 align="center">Hola, soy Candela Nuñez <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" />
+
 
 <!--
 ### Lenguajes <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 <img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=CandelaNunez27&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="CandelaNunez27" width="350" height="250">
 -->
-  
+
+
+🎓 Técnica universitaria de Redes de Datos y Telecomunicaciones
+
+💻 Interesada en Linux, Redes, Infraestructura, Administración de Sistemas y Ciberseguridad.
+
+🔧 Actualmente trabajando con:
+- Linux
+- Redes TCP/IP
+- Cisco Packet Tracer
+- DNS
+- Apache
+- PXE Boot
+- Samba
+- NFS
+
+📍 Argentina
+
+🚀 Construyendo laboratorios y documentación técnica para mi portfolio profesional
+
+## 🛠 Tecnologías y Herramientas
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu)
+![Cisco](https://img.shields.io/badge/Cisco-blue?logo=cisco)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Apache](https://img.shields.io/badge/Apache-red?logo=apache)
+![Bash](https://img.shields.io/badge/Bash-green?logo=gnu-bash)
+
+## 🎯 Objetivo
+
+Busco mi primera experiencia profesional en áreas relacionadas con:
+
+- Soporte IT
+- Infraestructura
+- Redes
+- Linux
+- Administración de Sistemas
+
+Mientras continúo desarrollando laboratorios y proyectos prácticos para fortalecer mis conocimientos.
+
+
+## 🌐 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/candela-nu%C3%B1ez27/)
+
+[GitHub](https://github.com/CandelaNunez27)
+
+📧 candelaanahinunez@gmail.com
+
+---
 ### Github  <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 ![CandelaNunez27's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=CandelaNunez27&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
