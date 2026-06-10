@@ -13,7 +13,14 @@
 
 💻 Interesada en Linux, Redes, Infraestructura, Administración de Sistemas y Ciberseguridad.
 
-🔧 Actualmente trabajando con: Construyendo laboratorios y documentación técnica para mi portfolio profesional
+🔧 Actualmente trabajando con: 
+
+- Construyendo laboratorios y Documentación técnica para mi portfolio profesional
+- Curso de Cloud
+- Curso de Python
+- Curso de Linux Cisco
+- Proyecto CubeSat
+
 <!--
 - Linux
 - Redes TCP/IP
@@ -25,9 +32,7 @@
 - NFS
 -->
 
-📍 Argentina
 
-Construyendo laboratorios y documentación técnica para mi portfolio profesional
 
 ## 🛠 Tecnologías y Herramientas
 
@@ -49,16 +54,7 @@ Busco mi primera experiencia profesional en áreas relacionadas con:
 - Linux
 - Administración de Sistemas
 
-Mientras continúo desarrollando laboratorios y proyectos prácticos para fortalecer mis conocimientos.
-
-
-## 🌐 Contacto
-
-[LinkedIn](https://www.linkedin.com/in/candela-nu%C3%B1ez27/)
-
-[GitHub](https://github.com/CandelaNunez27)
-
-📧 candelaanahinunez@gmail.com
+Mientras continúo fortaleciendo mis conocimientos.
 
 ---
 ### Github  <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
