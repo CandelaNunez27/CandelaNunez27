@@ -2,7 +2,7 @@
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 <h1 align="center">Hola, soy Candela Nuñez <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" />
 
-
+### 
 <!--
 ### Lenguajes <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 <img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=CandelaNunez27&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="CandelaNunez27" width="350" height="250">
@@ -13,7 +13,8 @@
 
 💻 Interesada en Linux, Redes, Infraestructura, Administración de Sistemas y Ciberseguridad.
 
-🔧 Actualmente trabajando con:
+🔧 Actualmente trabajando con: Construyendo laboratorios y documentación técnica para mi portfolio profesional
+<!--
 - Linux
 - Redes TCP/IP
 - Cisco Packet Tracer
@@ -22,10 +23,11 @@
 - PXE Boot
 - Samba
 - NFS
+-->
 
 📍 Argentina
 
-🚀 Construyendo laboratorios y documentación técnica para mi portfolio profesional
+Construyendo laboratorios y documentación técnica para mi portfolio profesional
 
 ## 🛠 Tecnologías y Herramientas
 
