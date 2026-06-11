@@ -20,6 +20,7 @@
 - Curso de Python
 - Curso de Linux Cisco
 - Proyecto CubeSat
+- Student Cluster Competition CARLA 2026
 
 <!--
 - Linux
