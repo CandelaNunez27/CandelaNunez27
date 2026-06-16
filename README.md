@@ -31,11 +31,7 @@
 - PXE Boot
 - Samba
 - NFS
--->
-
-
-
-## 🛠 Tecnologías y Herramientas
+ 🛠 Tecnologías y Herramientas
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu)
@@ -44,6 +40,42 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![Apache](https://img.shields.io/badge/Apache-red?logo=apache)
 ![Bash](https://img.shields.io/badge/Bash-green?logo=gnu-bash)
+-->
+## 🛠️ Tecnologías y Herramientas
+
+<br>
+
+<div align="center">
+
+  #### 🐧 Sistemas Operativos & Administración
+  <img src="https://svgl.app/library/linux.svg" alt="Linux" width="50" height="50" style="margin: 10px;" />
+  <img src="https://svgl.app/library/ubuntu.svg" alt="Ubuntu" width="50" height="50" style="margin: 10px;" />
+  <img src="https://svgl.app/library/windows.svg" alt="Windows Server" width="50" height="50" style="margin: 10px;" />
+  <img src="https://svgl.app/library/bash.svg" alt="Bash Scripting" width="50" height="50" style="margin: 10px;" />
+
+  #### 🌐 Infraestructura & Redes
+  <img src="https://svgl.app/library/apache.svg" alt="Apache HTTP Server" width="50" height="50" style="margin: 10px;" />
+  <img src="https://svgl.app/library/nginx.svg" alt="Nginx" width="50" height="50" style="margin: 10px;" />
+  
+  #### 📦 Virtualización & Contenedores
+  <img src="https://svgl.app/library/docker.svg" alt="Docker" width="50" height="50" style="margin: 10px;" />
+  
+  #### 💻 Desarrollo & Herramientas
+  <img src="https://svgl.app/library/python.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
+  <img src="https://svgl.app/library/git.svg" alt="Git" width="50" height="50" style="margin: 10px;" />
+  <img src="https://svgl.app/library/github.svg" alt="GitHub" width="50" height="50" style="margin: 10px;" />
+  <img src="https://svgl.app/library/obsidian.svg" alt="Obsidian" width="50" height="50" style="margin: 10px;" />
+  <img src="..." alt="Git" width="50"/>
+  <img src="..." alt="GitHub" width="50"/>
+  <img src="https://svgl.app/library/vscode.svg" alt="VS Code" width="50"/>
+  
+
+
+</div>
+
+<br>
+
+
 
 ## 🎯 Objetivo
 
