@@ -41,40 +41,48 @@
 ![Apache](https://img.shields.io/badge/Apache-red?logo=apache)
 ![Bash](https://img.shields.io/badge/Bash-green?logo=gnu-bash)
 -->
-## 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas
 
-<br>
 
 <div align="center">
 
   #### 🐧 Sistemas Operativos & Administración
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash" alt="OS y SysAdmin" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash" alt="OS" />
+  <img src="https://ui-avatars.com/api/?name=AD&background=00A4EF&color=fff&rounded=true&bold=true&size=48" alt="Active Directory" title="Active Directory" style="margin: 5px;" />
+  <img src="https://ui-avatars.com/api/?name=SMB&background=E50000&color=fff&rounded=true&bold=true&size=48" alt="Samba 4" title="Samba 4" style="margin: 5px;" />
 
   <br>
 
   #### 🌐 Infraestructura, Redes & Seguridad
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="50" height="50" style="margin: 10px;" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="50" height="50" style="margin: 10px;" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" width="50" height="50" style="margin: 10px;" />
-  <img src="https://cdn.simpleicons.org/openssl/721412" alt="OpenSSL" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" title="Cisco" width="48" height="48" style="margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" title="Wireshark" width="48" height="48" style="margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" title="Apache HTTP" width="48" height="48" style="margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/openssl/721412" alt="OpenSSL" title="OpenSSL" width="48" height="48" style="margin: 5px;" />
   
   <br>
 
-  #### 📦 Virtualización & Contenedores
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="vertical-align: middle; margin: 10px;" />
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" alt="VirtualBox" width="50" height="50" style="vertical-align: middle; margin: 10px;" />
+  #### 📦 Virtualización, Contenedores & Bases de Datos
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/proxmox/E57000" alt="Proxmox" title="Proxmox VE" width="48" height="48" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" alt="VirtualBox" title="VirtualBox" width="48" height="48" style="vertical-align: middle; margin: 5px;" />
+<img src="https://cdn.simpleicons.org/mariadb/183A61" alt="MariaDB" title="MariaDB" width="48" height="48" style="vertical-align: middle; margin: 5px;" /> 
+  <br>
+
+  #### ⚙️ Automatización & Inventario
+  <img src="https://ui-avatars.com/api/?name=GLPI&background=115593&color=fff&rounded=true&bold=true&size=48" alt="GLPI" title="GLPI" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://ui-avatars.com/api/?name=OCS&background=34495E&color=fff&rounded=true&bold=true&size=48" alt="OCS Inventory" title="OCS Inventory" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://ui-avatars.com/api/?name=CZ&background=F39C12&color=fff&rounded=true&bold=true&size=48" alt="Clonezilla" title="Clonezilla" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://ui-avatars.com/api/?name=SP&background=2980B9&color=fff&rounded=true&bold=true&size=48" alt="Sysprep" title="Sysprep" style="vertical-align: middle; margin: 10px;" />
 
   <br>
 
   #### 💻 Desarrollo & Herramientas
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" alt="Dev Tools" style="vertical-align: middle; margin: 10px;" />
-  <img src="https://cdn.simpleicons.org/obsidian/483699" alt="Obsidian" width="50" height="50" style="vertical-align: middle; margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,vscode,git,github" alt="Dev Tools" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/obsidian/483699" alt="Obsidian" title="Obsidian" width="48" height="48" style="vertical-align: middle; margin: 5px;" />
 
 </div>
 
 <br>
-
-
 
 ## 🎯 Objetivo
 
