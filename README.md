@@ -20,7 +20,7 @@
 - Curso de Python
 - Curso de Linux Cisco
 - Proyecto CubeSat
-- Student Cluster Competition CARLA 2026
+- Proyecto Student Cluster Competition CARLA 2026
 
 <!--
 - Linux
@@ -48,28 +48,27 @@
 <div align="center">
 
   #### 🐧 Sistemas Operativos & Administración
-  <img src="https://svgl.app/library/linux.svg" alt="Linux" width="50" height="50" style="margin: 10px;" />
-  <img src="https://svgl.app/library/ubuntu.svg" alt="Ubuntu" width="50" height="50" style="margin: 10px;" />
-  <img src="https://svgl.app/library/windows.svg" alt="Windows Server" width="50" height="50" style="margin: 10px;" />
-  <img src="https://svgl.app/library/bash.svg" alt="Bash Scripting" width="50" height="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash" alt="OS y SysAdmin" />
 
-  #### 🌐 Infraestructura & Redes
-  <img src="https://svgl.app/library/apache.svg" alt="Apache HTTP Server" width="50" height="50" style="margin: 10px;" />
-  <img src="https://svgl.app/library/nginx.svg" alt="Nginx" width="50" height="50" style="margin: 10px;" />
+  <br>
+
+  #### 🌐 Infraestructura, Redes & Seguridad
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.simpleicons.org/openssl/721412" alt="OpenSSL" width="50" height="50" style="margin: 10px;" />
   
+  <br>
+
   #### 📦 Virtualización & Contenedores
-  <img src="https://svgl.app/library/docker.svg" alt="Docker" width="50" height="50" style="margin: 10px;" />
-  
-  #### 💻 Desarrollo & Herramientas
-  <img src="https://svgl.app/library/python.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
-  <img src="https://svgl.app/library/git.svg" alt="Git" width="50" height="50" style="margin: 10px;" />
-  <img src="https://svgl.app/library/github.svg" alt="GitHub" width="50" height="50" style="margin: 10px;" />
-  <img src="https://svgl.app/library/obsidian.svg" alt="Obsidian" width="50" height="50" style="margin: 10px;" />
-  <img src="..." alt="Git" width="50"/>
-  <img src="..." alt="GitHub" width="50"/>
-  <img src="https://svgl.app/library/vscode.svg" alt="VS Code" width="50"/>
-  
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="vertical-align: middle; margin: 10px;" />
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" alt="VirtualBox" width="50" height="50" style="vertical-align: middle; margin: 10px;" />
 
+  <br>
+
+  #### 💻 Desarrollo & Herramientas
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" alt="Dev Tools" style="vertical-align: middle; margin: 10px;" />
+  <img src="https://cdn.simpleicons.org/obsidian/483699" alt="Obsidian" width="50" height="50" style="vertical-align: middle; margin: 10px;" />
 
 </div>
 
