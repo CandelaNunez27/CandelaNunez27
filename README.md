@@ -109,6 +109,12 @@ Mientras continúo fortaleciendo mis conocimientos.
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 
+
+
+![Gráfico de Actividad](https://githubusercontent.com)
+
+
+
 <!--
 **CandelaNunez27/CandelaNunez27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
