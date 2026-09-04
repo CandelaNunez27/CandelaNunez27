@@ -101,9 +101,6 @@ Mientras continúo fortaleciendo mis conocimientos.
 ![CandelaNunez27's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=CandelaNunez27&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
 ### Gráfico de Actividad <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-[![CandelaNunez27's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CandelaNunez27&theme=tokyo-night)](https://github.com/CandelaNunez27/github-readme-activity-graph)
-
-[![CandelaNunez27's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CandelaNunez27&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![Gráfico de Actividad](./github-activity-graph.svg)
