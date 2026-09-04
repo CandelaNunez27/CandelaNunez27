@@ -110,8 +110,8 @@ Mientras continúo fortaleciendo mis conocimientos.
 
 
 
-
 ![Gráfico de Actividad](https://githubusercontent.com)
+
 
 
 
