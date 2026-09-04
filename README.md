@@ -103,6 +103,8 @@ Mientras continúo fortaleciendo mis conocimientos.
 ### Gráfico de Actividad <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 [![CandelaNunez27's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CandelaNunez27&theme=tokyo-night)](https://github.com/CandelaNunez27/github-readme-activity-graph)
 
+[![CandelaNunez27's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CandelaNunez27&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
