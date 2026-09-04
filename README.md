@@ -106,11 +106,17 @@ Mientras continúo fortaleciendo mis conocimientos.
 [![CandelaNunez27's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CandelaNunez27&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![Gráfico de Actividad](./github-activity-graph.svg)
+
+
+
+
+
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 
 
-![Gráfico de Actividad](https://githubusercontent.com)
+
 
 
 
